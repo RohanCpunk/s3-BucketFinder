@@ -1,6 +1,6 @@
 # Introduction 
 Myself RohanCpunk
-By day, I'm a cybersec evangelist, advocating for digital safety and resilience. But when night falls, I transform into a vigilante hacker, prowling the shadows to combat cyber threats. Balancing these dual roles, I'm committed to defending the digital realm and ensuring its security, day and night.
+By day, I'm a cybersec evangelist, advocating for digital safety and resilience. But when night falls, I transform into a vigilante hacker, prowling the shadows to combat cyber threats. Balancing these dual roles, I'm committed to defending the digital realm and ensuring its security, day and night. 
 
 # s3-BucketFinder
 Written this script to ease out my work but thaught it would be grate if i can help others in that too this s3BucketFinder is Python Script for Identifying World-Editable s3 Buckets
